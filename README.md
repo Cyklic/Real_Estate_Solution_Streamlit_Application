@@ -1,7 +1,7 @@
 # Real Estate Price Predictor Application
 This app has been built using Streamlit and deployed with Streamlit community cloud
 
-<!-- [Visit the app here](https://leonard-umoru-real-estate-solution.streamlit.app/) -->
+[Visit the app here](https://leonard-umoru-real-estate-solution.streamlit.app/)
 
 This application aims to predicts the price of housing properties based on inputs.
 
